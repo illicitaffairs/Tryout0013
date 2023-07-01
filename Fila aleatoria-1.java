@@ -1,3 +1,4 @@
+//this program prompts the user to enter 6 names, generates a random number for each name, and then displays the names along with their corresponding random numbers.
 import java.util.*;
 
 public class DistribuicaoNumerosAleatorios {
