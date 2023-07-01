@@ -1,3 +1,4 @@
+#um programa que permite digitar um texto e salvá-lo automaticamente no Word, utilizando a biblioteca python-docx
 from docx import Document
 
 def salvar_no_word(texto):
