@@ -1,3 +1,4 @@
+#you can add additional code within the loop to process or send the coordinates to an external system or store them somewhere like a database.
 import random
 
 # Função para gerar coordenadas aleatórias
