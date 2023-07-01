@@ -1,3 +1,4 @@
+#precisaremos utilizar a biblioteca psutil, que fornece uma interface para acessar informações do sistema, incluindo a temperatura da CPU.
 import psutil
 
 def monitorar_temperatura():
