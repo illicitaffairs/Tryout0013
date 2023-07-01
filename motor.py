@@ -1,3 +1,4 @@
+#This code serves as a basic framework for monitoring the temperature of an engine. In a real-world scenario, you would likely have additional code to interface with temperature sensors and perform more complex actions based on the temperature readings.
 import random
 import time
 
