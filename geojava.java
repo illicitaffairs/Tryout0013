@@ -1,3 +1,5 @@
+//Este código cria uma interface gráfica simples usando o Swing para exibir coordenadas geográficas aleatórias e o país correspondente a essas coordenadas. 
+// importar a classe JFrame e JLabel do pacote javax.swing para que o código funcione corretamente.
 import java.util.Random;
 import java.util.Timer;
 import java.util.TimerTask;
