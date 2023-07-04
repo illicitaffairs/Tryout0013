@@ -1,3 +1,4 @@
+#O código implementa um sistema de login simples usando um banco de dados de usuários fictícios.
 import random
 
 # Example user database
